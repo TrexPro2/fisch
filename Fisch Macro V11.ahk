@@ -223,7 +223,7 @@ tooltip, Runtime: 0h 0m 0s, %TooltipX%, %Tooltip2%, 2
 
 tooltip, Press "P" to Start, %TooltipX%, %Tooltip4%, 4
 tooltip, Press "O" to Reload, %TooltipX%, %Tooltip5%, 5
-tooltip, Press "M" to Exit, %TooltipX%, %Tooltip6%, 6
+tooltip, Press "B" to Exit, %TooltipX%, %Tooltip6%, 6
 
 if (AutoLowerGraphics == true)
 	{
